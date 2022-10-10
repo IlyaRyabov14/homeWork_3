@@ -1,0 +1,15 @@
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork_3\№23\bin\Debug\net7.0\№23.exe
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork_3\№23\bin\Debug\net7.0\№23.deps.json
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork_3\№23\bin\Debug\net7.0\№23.runtimeconfig.json
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork_3\№23\bin\Debug\net7.0\№23.dll
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork_3\№23\bin\Debug\net7.0\№23.pdb
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork_3\№23\obj\Debug\net7.0\№23.csproj.AssemblyReference.cache
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork_3\№23\obj\Debug\net7.0\№23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork_3\№23\obj\Debug\net7.0\№23.AssemblyInfoInputs.cache
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork_3\№23\obj\Debug\net7.0\№23.AssemblyInfo.cs
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork_3\№23\obj\Debug\net7.0\№23.csproj.CoreCompileInputs.cache
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork_3\№23\obj\Debug\net7.0\№23.dll
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork_3\№23\obj\Debug\net7.0\refint\№23.dll
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork_3\№23\obj\Debug\net7.0\№23.pdb
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork_3\№23\obj\Debug\net7.0\№23.genruntimeconfig.cache
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork_3\№23\obj\Debug\net7.0\ref\№23.dll
